@@ -1,2 +1,2 @@
-# Oposici-nes
+# Oposiciones
 Apuntes de las oposiciones del INE
